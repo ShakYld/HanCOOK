@@ -1,0 +1,1001 @@
+sex,age,budget,genre
+female,60s,under 15000,한식
+female,50s,over 30000,중식
+male,20s,15000~30000,패스트푸드 및 테이크아웃
+female,20s,15000~30000,일식
+male,50s,under 15000,한식
+female,80s,15000~30000,한식
+male,children,under 15000,베이커리 및 디저트
+male,10s,15000~30000,중식
+female,30s,under 15000,베이커리 및 디저트
+male,60s,under 15000,한식
+female,40s,15000~30000,중식
+female,80s,over 30000,한식
+male,50s,over 30000,중식
+male,30s,under 15000,동남아 음식
+male,70s,over 30000,한식
+male,80s,over 30000,한식
+female,40s,15000~30000,일식
+female,60s,under 15000,한식
+female,20s,15000~30000,베이커리 및 디저트
+female,80s,15000~30000,한식
+female,20s,under 15000,패스트푸드 및 테이크아웃
+female,children,under 15000,베이커리 및 디저트
+male,children,15000~30000,중식
+male,50s,15000~30000,한식
+male,80s,over 30000,동남아 음식
+female,30s,under 15000,일식
+male,10s,under 15000,한식
+female,50s,over 30000,중식
+male,70s,15000~30000,일식
+male,40s,under 15000,패스트푸드 및 테이크아웃
+male,20s,15000~30000,패스트푸드 및 테이크아웃
+male,children,under 15000,패스트푸드 및 테이크아웃
+male,30s,under 15000,한식
+male,30s,over 30000,일식
+female,40s,over 30000,일식
+male,70s,under 15000,한식
+female,60s,15000~30000,한식
+male,10s,15000~30000,패스트푸드 및 테이크아웃
+female,20s,under 15000,베이커리 및 디저트
+male,60s,over 30000,한식
+female,children,under 15000,베이커리 및 디저트
+female,80s,over 30000,한식
+male,30s,under 15000,동남아 음식
+male,10s,15000~30000,패스트푸드 및 테이크아웃
+male,40s,15000~30000,양식
+female,60s,under 15000,한식
+male,30s,over 30000,양식
+female,40s,15000~30000,베이커리 및 디저트
+female,60s,under 15000,한식
+male,60s,over 30000,중식
+male,70s,under 15000,한식
+male,70s,15000~30000,한식
+female,20s,15000~30000,양식
+male,80s,over 30000,한식
+female,40s,under 15000,패스트푸드 및 테이크아웃
+male,50s,under 15000,패스트푸드 및 테이크아웃
+male,40s,under 15000,동남아 음식
+male,20s,over 30000,양식
+female,60s,over 30000,양식
+male,children,15000~30000,일식
+male,30s,over 30000,일식
+male,50s,over 30000,한식
+male,80s,15000~30000,한식
+female,20s,under 15000,베이커리 및 디저트
+male,10s,under 15000,한식
+male,children,under 15000,패스트푸드 및 테이크아웃
+male,80s,over 30000,한식
+female,50s,over 30000,일식
+male,50s,15000~30000,한식
+male,80s,over 30000,한식
+male,80s,15000~30000,한식
+male,children,15000~30000,패스트푸드 및 테이크아웃
+male,70s,over 30000,일식
+male,children,under 15000,중식
+male,10s,under 15000,중식
+male,60s,under 15000,동남아 음식
+male,70s,15000~30000,한식
+male,20s,under 15000,패스트푸드 및 테이크아웃
+female,60s,over 30000,한식
+female,10s,under 15000,패스트푸드 및 테이크아웃
+male,80s,over 30000,한식
+male,40s,15000~30000,중식
+female,80s,15000~30000,일식
+female,10s,15000~30000,양식
+female,30s,over 30000,양식
+female,80s,over 30000,한식
+male,20s,over 30000,양식
+male,40s,over 30000,양식
+female,children,under 15000,패스트푸드 및 테이크아웃
+female,10s,under 15000,중식
+female,60s,over 30000,동남아 음식
+female,20s,15000~30000,베이커리 및 디저트
+female,10s,under 15000,베이커리 및 디저트
+male,30s,over 30000,일식
+female,20s,15000~30000,양식
+male,10s,under 15000,한식
+female,80s,15000~30000,한식
+female,20s,15000~30000,양식
+male,20s,under 15000,패스트푸드 및 테이크아웃
+female,20s,15000~30000,베이커리 및 디저트
+male,10s,under 15000,베이커리 및 디저트
+male,50s,15000~30000,양식
+female,30s,over 30000,양식
+female,50s,under 15000,중식
+male,60s,15000~30000,동남아 음식
+male,50s,15000~30000,중식
+female,10s,under 15000,베이커리 및 디저트
+male,10s,under 15000,베이커리 및 디저트
+female,10s,under 15000,베이커리 및 디저트
+female,40s,over 30000,한식
+male,children,under 15000,한식
+male,children,under 15000,중식
+female,30s,over 30000,양식
+male,20s,under 15000,동남아 음식
+female,10s,15000~30000,베이커리 및 디저트
+female,70s,over 30000,한식
+male,30s,over 30000,일식
+male,children,15000~30000,중식
+female,60s,over 30000,한식
+female,children,under 15000,베이커리 및 디저트
+female,70s,15000~30000,베이커리 및 디저트
+female,80s,under 15000,한식
+male,50s,15000~30000,한식
+male,50s,15000~30000,중식
+male,10s,15000~30000,중식
+male,80s,under 15000,한식
+female,40s,under 15000,한식
+male,children,under 15000,중식
+male,80s,over 30000,한식
+female,50s,under 15000,베이커리 및 디저트
+female,50s,under 15000,동남아 음식
+female,70s,over 30000,한식
+male,50s,15000~30000,중식
+female,50s,under 15000,양식
+female,40s,under 15000,베이커리 및 디저트
+male,20s,over 30000,양식
+male,80s,under 15000,한식
+male,children,15000~30000,한식
+male,children,15000~30000,중식
+female,60s,under 15000,동남아 음식
+male,70s,15000~30000,한식
+female,40s,under 15000,베이커리 및 디저트
+female,10s,under 15000,베이커리 및 디저트
+male,80s,15000~30000,한식
+female,70s,15000~30000,일식
+male,30s,over 30000,양식
+female,40s,under 15000,베이커리 및 디저트
+male,70s,15000~30000,한식
+female,children,under 15000,베이커리 및 디저트
+male,10s,15000~30000,중식
+female,80s,15000~30000,일식
+female,20s,15000~30000,베이커리 및 디저트
+male,children,under 15000,패스트푸드 및 테이크아웃
+female,70s,under 15000,한식
+female,50s,over 30000,일식
+male,40s,under 15000,한식
+male,30s,15000~30000,양식
+male,40s,over 30000,양식
+female,10s,15000~30000,베이커리 및 디저트
+male,40s,over 30000,일식
+female,20s,under 15000,베이커리 및 디저트
+female,70s,under 15000,한식
+female,50s,under 15000,한식
+female,70s,over 30000,한식
+male,10s,under 15000,패스트푸드 및 테이크아웃
+male,children,under 15000,패스트푸드 및 테이크아웃
+female,70s,over 30000,일식
+female,80s,15000~30000,한식
+female,children,under 15000,베이커리 및 디저트
+female,60s,over 30000,한식
+female,60s,over 30000,일식
+female,80s,under 15000,한식
+male,60s,under 15000,한식
+female,40s,under 15000,양식
+female,50s,under 15000,중식
+male,80s,over 30000,한식
+male,10s,under 15000,패스트푸드 및 테이크아웃
+female,30s,over 30000,양식
+male,30s,under 15000,한식
+male,children,under 15000,패스트푸드 및 테이크아웃
+female,50s,under 15000,동남아 음식
+female,10s,under 15000,베이커리 및 디저트
+male,20s,under 15000,중식
+female,70s,over 30000,한식
+male,20s,under 15000,패스트푸드 및 테이크아웃
+female,60s,over 30000,일식
+male,40s,under 15000,중식
+male,70s,over 30000,한식
+male,80s,under 15000,한식
+male,10s,under 15000,패스트푸드 및 테이크아웃
+male,70s,15000~30000,중식
+female,80s,under 15000,한식
+male,70s,under 15000,동남아 음식
+male,60s,under 15000,한식
+male,40s,under 15000,패스트푸드 및 테이크아웃
+male,60s,over 30000,한식
+male,30s,under 15000,동남아 음식
+female,70s,15000~30000,일식
+male,30s,over 30000,양식
+female,70s,under 15000,한식
+male,60s,under 15000,중식
+female,80s,under 15000,한식
+male,70s,15000~30000,한식
+female,40s,under 15000,베이커리 및 디저트
+female,60s,under 15000,동남아 음식
+female,10s,under 15000,베이커리 및 디저트
+male,80s,15000~30000,한식
+male,20s,over 30000,양식
+male,40s,under 15000,한식
+male,80s,under 15000,한식
+female,40s,15000~30000,베이커리 및 디저트
+male,80s,under 15000,한식
+male,30s,over 30000,양식
+male,30s,under 15000,중식
+male,30s,over 30000,양식
+female,60s,over 30000,한식
+female,30s,under 15000,베이커리 및 디저트
+female,70s,15000~30000,일식
+male,50s,over 30000,중식
+female,30s,15000~30000,양식
+male,children,15000~30000,패스트푸드 및 테이크아웃
+male,60s,over 30000,일식
+male,40s,15000~30000,한식
+male,20s,15000~30000,패스트푸드 및 테이크아웃
+female,70s,under 15000,한식
+male,60s,under 15000,한식
+female,80s,under 15000,한식
+male,80s,15000~30000,일식
+male,40s,under 15000,일식
+female,10s,under 15000,베이커리 및 디저트
+male,80s,15000~30000,한식
+female,40s,under 15000,베이커리 및 디저트
+male,40s,15000~30000,중식
+female,60s,over 30000,한식
+male,20s,under 15000,베이커리 및 디저트
+male,30s,over 30000,양식
+male,30s,15000~30000,중식
+female,50s,15000~30000,베이커리 및 디저트
+female,50s,15000~30000,중식
+male,40s,over 30000,양식
+male,80s,over 30000,한식
+male,30s,under 15000,중식
+male,20s,under 15000,일식
+female,10s,under 15000,베이커리 및 디저트
+male,50s,under 15000,패스트푸드 및 테이크아웃
+male,20s,under 15000,패스트푸드 및 테이크아웃
+male,60s,under 15000,한식
+female,30s,over 30000,양식
+female,30s,over 30000,양식
+male,50s,under 15000,한식
+male,60s,under 15000,한식
+male,20s,under 15000,동남아 음식
+male,80s,under 15000,한식
+female,30s,15000~30000,패스트푸드 및 테이크아웃
+male,children,under 15000,중식
+female,50s,15000~30000,일식
+male,40s,over 30000,양식
+male,30s,under 15000,패스트푸드 및 테이크아웃
+female,70s,under 15000,한식
+male,60s,15000~30000,일식
+female,50s,15000~30000,일식
+male,80s,over 30000,한식
+female,80s,under 15000,한식
+male,60s,under 15000,중식
+male,50s,under 15000,패스트푸드 및 테이크아웃
+male,40s,15000~30000,동남아 음식
+female,40s,over 30000,양식
+male,60s,15000~30000,한식
+female,70s,under 15000,한식
+female,10s,under 15000,베이커리 및 디저트
+male,30s,15000~30000,베이커리 및 디저트
+female,10s,under 15000,베이커리 및 디저트
+male,60s,15000~30000,일식
+female,80s,over 30000,한식
+male,20s,under 15000,패스트푸드 및 테이크아웃
+male,10s,15000~30000,중식
+female,40s,15000~30000,중식
+male,60s,over 30000,한식
+female,60s,over 30000,한식
+male,50s,over 30000,한식
+male,40s,15000~30000,일식
+female,30s,under 15000,베이커리 및 디저트
+male,70s,over 30000,한식
+female,40s,15000~30000,중식
+male,30s,15000~30000,한식
+female,50s,under 15000,베이커리 및 디저트
+male,children,under 15000,중식
+male,50s,15000~30000,한식
+male,10s,15000~30000,패스트푸드 및 테이크아웃
+male,children,under 15000,패스트푸드 및 테이크아웃
+male,30s,under 15000,중식
+male,10s,under 15000,동남아 음식
+male,50s,under 15000,중식
+male,80s,15000~30000,한식
+female,30s,over 30000,양식
+female,70s,over 30000,한식
+male,60s,over 30000,일식
+female,10s,under 15000,베이커리 및 디저트
+male,80s,over 30000,한식
+male,50s,over 30000,일식
+female,40s,over 30000,중식
+male,60s,under 15000,한식
+male,30s,over 30000,양식
+male,80s,over 30000,한식
+female,children,15000~30000,베이커리 및 디저트
+male,20s,15000~30000,양식
+male,30s,under 15000,동남아 음식
+male,70s,over 30000,한식
+male,40s,under 15000,패스트푸드 및 테이크아웃
+male,80s,over 30000,한식
+female,60s,under 15000,중식
+male,50s,15000~30000,패스트푸드 및 테이크아웃
+female,10s,15000~30000,베이커리 및 디저트
+female,50s,15000~30000,한식
+male,60s,under 15000,동남아 음식
+female,80s,15000~30000,중식
+male,30s,over 30000,양식
+male,50s,under 15000,패스트푸드 및 테이크아웃
+female,10s,15000~30000,동남아 음식
+female,30s,under 15000,베이커리 및 디저트
+male,60s,15000~30000,일식
+male,60s,over 30000,한식
+female,children,under 15000,베이커리 및 디저트
+male,80s,over 30000,한식
+male,20s,over 30000,양식
+male,40s,under 15000,한식
+female,20s,under 15000,베이커리 및 디저트
+female,70s,under 15000,중식
+male,children,15000~30000,패스트푸드 및 테이크아웃
+female,20s,15000~30000,베이커리 및 디저트
+female,30s,15000~30000,중식
+female,10s,under 15000,베이커리 및 디저트
+male,20s,15000~30000,동남아 음식
+male,20s,under 15000,베이커리 및 디저트
+female,10s,under 15000,베이커리 및 디저트
+male,30s,15000~30000,동남아 음식
+female,10s,15000~30000,일식
+male,10s,15000~30000,패스트푸드 및 테이크아웃
+male,50s,15000~30000,중식
+male,60s,15000~30000,패스트푸드 및 테이크아웃
+male,70s,15000~30000,한식
+female,50s,over 30000,일식
+female,50s,under 15000,한식
+male,40s,15000~30000,한식
+male,70s,15000~30000,한식
+female,10s,under 15000,베이커리 및 디저트
+male,20s,over 30000,양식
+female,40s,15000~30000,일식
+male,20s,15000~30000,일식
+female,60s,15000~30000,베이커리 및 디저트
+female,children,15000~30000,베이커리 및 디저트
+male,50s,15000~30000,일식
+male,60s,15000~30000,중식
+female,40s,over 30000,한식
+female,50s,over 30000,일식
+male,40s,over 30000,한식
+female,70s,15000~30000,한식
+male,60s,under 15000,한식
+male,10s,15000~30000,일식
+female,60s,over 30000,한식
+female,30s,15000~30000,양식
+female,30s,15000~30000,베이커리 및 디저트
+female,50s,15000~30000,베이커리 및 디저트
+male,30s,under 15000,한식
+female,children,under 15000,베이커리 및 디저트
+female,80s,over 30000,한식
+male,60s,15000~30000,일식
+male,10s,15000~30000,중식
+male,40s,under 15000,패스트푸드 및 테이크아웃
+female,60s,over 30000,한식
+female,60s,over 30000,일식
+female,10s,15000~30000,베이커리 및 디저트
+male,70s,over 30000,한식
+female,30s,15000~30000,베이커리 및 디저트
+female,60s,over 30000,일식
+male,80s,under 15000,한식
+female,20s,over 30000,양식
+male,50s,under 15000,중식
+female,children,15000~30000,패스트푸드 및 테이크아웃
+female,40s,over 30000,한식
+female,children,under 15000,베이커리 및 디저트
+female,80s,over 30000,한식
+male,30s,under 15000,베이커리 및 디저트
+female,40s,under 15000,한식
+female,10s,under 15000,중식
+male,30s,over 30000,양식
+male,70s,under 15000,한식
+male,50s,15000~30000,베이커리 및 디저트
+male,70s,under 15000,일식
+male,children,under 15000,동남아 음식
+female,30s,under 15000,중식
+male,20s,15000~30000,패스트푸드 및 테이크아웃
+male,10s,15000~30000,중식
+female,40s,15000~30000,일식
+male,10s,under 15000,중식
+female,60s,over 30000,한식
+female,50s,15000~30000,베이커리 및 디저트
+female,40s,15000~30000,패스트푸드 및 테이크아웃
+male,20s,under 15000,한식
+female,40s,over 30000,일식
+female,20s,15000~30000,양식
+female,30s,under 15000,베이커리 및 디저트
+male,20s,15000~30000,패스트푸드 및 테이크아웃
+female,80s,under 15000,중식
+female,20s,under 15000,베이커리 및 디저트
+male,10s,under 15000,한식
+female,10s,15000~30000,양식
+female,20s,15000~30000,양식
+male,10s,under 15000,한식
+female,10s,under 15000,베이커리 및 디저트
+male,40s,over 30000,양식
+male,10s,under 15000,베이커리 및 디저트
+male,20s,15000~30000,동남아 음식
+female,70s,over 30000,한식
+female,50s,15000~30000,중식
+female,children,under 15000,베이커리 및 디저트
+male,40s,15000~30000,일식
+female,20s,over 30000,양식
+female,50s,15000~30000,패스트푸드 및 테이크아웃
+male,80s,under 15000,한식
+female,80s,15000~30000,한식
+female,30s,15000~30000,베이커리 및 디저트
+female,50s,15000~30000,양식
+female,40s,over 30000,동남아 음식
+female,70s,over 30000,한식
+female,10s,under 15000,베이커리 및 디저트
+male,80s,over 30000,한식
+male,30s,15000~30000,양식
+male,80s,15000~30000,한식
+female,80s,15000~30000,일식
+male,10s,15000~30000,동남아 음식
+male,20s,15000~30000,중식
+male,10s,under 15000,베이커리 및 디저트
+female,children,15000~30000,중식
+female,80s,15000~30000,한식
+female,70s,under 15000,중식
+male,70s,over 30000,한식
+female,80s,under 15000,한식
+male,50s,15000~30000,일식
+female,60s,over 30000,중식
+male,50s,under 15000,한식
+male,40s,under 15000,한식
+male,40s,15000~30000,양식
+male,20s,under 15000,동남아 음식
+male,70s,15000~30000,일식
+female,70s,under 15000,한식
+female,60s,15000~30000,양식
+male,30s,15000~30000,중식
+male,60s,over 30000,한식
+female,30s,over 30000,양식
+male,50s,15000~30000,베이커리 및 디저트
+male,60s,over 30000,한식
+male,80s,over 30000,한식
+female,10s,15000~30000,베이커리 및 디저트
+female,40s,under 15000,일식
+female,60s,under 15000,한식
+male,children,15000~30000,패스트푸드 및 테이크아웃
+female,50s,over 30000,일식
+female,70s,15000~30000,동남아 음식
+female,70s,under 15000,패스트푸드 및 테이크아웃
+male,30s,under 15000,일식
+female,40s,over 30000,양식
+male,60s,over 30000,한식
+male,children,under 15000,패스트푸드 및 테이크아웃
+female,60s,under 15000,베이커리 및 디저트
+male,20s,over 30000,양식
+male,50s,15000~30000,동남아 음식
+male,50s,over 30000,한식
+male,40s,15000~30000,양식
+female,70s,over 30000,한식
+male,10s,under 15000,베이커리 및 디저트
+male,40s,15000~30000,양식
+female,20s,under 15000,베이커리 및 디저트
+male,80s,15000~30000,한식
+male,20s,15000~30000,일식
+female,50s,15000~30000,양식
+male,40s,under 15000,중식
+male,20s,under 15000,한식
+male,20s,over 30000,양식
+female,60s,15000~30000,일식
+female,children,under 15000,베이커리 및 디저트
+female,60s,over 30000,양식
+female,40s,under 15000,베이커리 및 디저트
+male,40s,15000~30000,동남아 음식
+female,70s,under 15000,한식
+female,children,under 15000,중식
+female,50s,under 15000,동남아 음식
+female,children,15000~30000,동남아 음식
+male,10s,15000~30000,중식
+male,40s,under 15000,동남아 음식
+male,children,under 15000,베이커리 및 디저트
+female,40s,under 15000,동남아 음식
+male,50s,15000~30000,동남아 음식
+female,70s,over 30000,한식
+female,20s,15000~30000,동남아 음식
+male,50s,15000~30000,양식
+female,30s,15000~30000,베이커리 및 디저트
+male,80s,over 30000,일식
+male,80s,15000~30000,한식
+female,50s,under 15000,베이커리 및 디저트
+female,30s,under 15000,동남아 음식
+female,80s,under 15000,한식
+female,10s,under 15000,중식
+male,60s,15000~30000,한식
+male,40s,over 30000,양식
+male,80s,over 30000,한식
+female,50s,under 15000,베이커리 및 디저트
+male,70s,under 15000,한식
+female,80s,over 30000,한식
+female,40s,under 15000,중식
+female,70s,15000~30000,한식
+male,children,15000~30000,중식
+female,children,under 15000,패스트푸드 및 테이크아웃
+male,20s,over 30000,양식
+male,10s,under 15000,중식
+female,10s,under 15000,베이커리 및 디저트
+male,20s,under 15000,베이커리 및 디저트
+female,60s,15000~30000,동남아 음식
+male,60s,under 15000,한식
+male,30s,under 15000,동남아 음식
+female,children,under 15000,한식
+male,60s,over 30000,중식
+male,70s,over 30000,한식
+male,60s,over 30000,한식
+male,30s,under 15000,동남아 음식
+female,50s,15000~30000,일식
+male,20s,under 15000,동남아 음식
+female,20s,over 30000,양식
+female,80s,under 15000,한식
+male,20s,15000~30000,패스트푸드 및 테이크아웃
+female,70s,under 15000,베이커리 및 디저트
+female,30s,over 30000,양식
+male,children,under 15000,중식
+male,10s,15000~30000,한식
+female,70s,15000~30000,한식
+female,50s,over 30000,양식
+male,60s,15000~30000,한식
+female,children,under 15000,베이커리 및 디저트
+female,10s,under 15000,베이커리 및 디저트
+female,40s,15000~30000,베이커리 및 디저트
+female,50s,over 30000,일식
+male,30s,over 30000,양식
+female,30s,under 15000,패스트푸드 및 테이크아웃
+female,20s,under 15000,베이커리 및 디저트
+female,80s,15000~30000,한식
+male,50s,15000~30000,중식
+female,children,under 15000,베이커리 및 디저트
+female,40s,over 30000,일식
+male,20s,under 15000,패스트푸드 및 테이크아웃
+female,80s,under 15000,한식
+male,70s,over 30000,중식
+male,50s,15000~30000,한식
+male,30s,over 30000,양식
+female,50s,15000~30000,일식
+female,20s,15000~30000,양식
+male,40s,15000~30000,한식
+male,20s,over 30000,양식
+male,30s,over 30000,양식
+male,50s,under 15000,중식
+male,50s,over 30000,양식
+female,80s,under 15000,한식
+male,70s,under 15000,일식
+male,40s,over 30000,양식
+female,30s,over 30000,한식
+male,30s,under 15000,동남아 음식
+female,20s,over 30000,양식
+male,60s,over 30000,한식
+male,30s,15000~30000,한식
+male,10s,15000~30000,중식
+female,40s,15000~30000,동남아 음식
+female,10s,under 15000,베이커리 및 디저트
+female,60s,15000~30000,베이커리 및 디저트
+male,80s,under 15000,한식
+male,60s,under 15000,한식
+female,30s,over 30000,양식
+male,60s,15000~30000,양식
+male,60s,under 15000,중식
+male,70s,under 15000,한식
+female,30s,15000~30000,패스트푸드 및 테이크아웃
+female,40s,under 15000,패스트푸드 및 테이크아웃
+female,80s,15000~30000,동남아 음식
+male,10s,under 15000,패스트푸드 및 테이크아웃
+female,80s,under 15000,한식
+female,10s,15000~30000,패스트푸드 및 테이크아웃
+female,80s,under 15000,일식
+male,40s,over 30000,일식
+female,40s,under 15000,중식
+female,60s,over 30000,한식
+female,70s,under 15000,한식
+female,20s,over 30000,양식
+male,70s,15000~30000,한식
+female,20s,over 30000,양식
+male,70s,15000~30000,패스트푸드 및 테이크아웃
+male,20s,15000~30000,베이커리 및 디저트
+female,70s,15000~30000,한식
+female,10s,under 15000,베이커리 및 디저트
+male,children,under 15000,중식
+male,children,15000~30000,베이커리 및 디저트
+female,50s,under 15000,베이커리 및 디저트
+female,children,15000~30000,패스트푸드 및 테이크아웃
+male,children,under 15000,한식
+male,30s,over 30000,양식
+female,10s,15000~30000,동남아 음식
+male,50s,under 15000,한식
+male,50s,over 30000,한식
+female,20s,over 30000,일식
+male,80s,under 15000,한식
+male,60s,under 15000,일식
+female,30s,15000~30000,일식
+female,60s,under 15000,동남아 음식
+male,70s,over 30000,한식
+female,60s,15000~30000,일식
+male,50s,15000~30000,패스트푸드 및 테이크아웃
+male,20s,over 30000,양식
+female,50s,under 15000,패스트푸드 및 테이크아웃
+male,40s,under 15000,한식
+male,30s,under 15000,베이커리 및 디저트
+female,30s,over 30000,동남아 음식
+male,60s,under 15000,한식
+male,50s,over 30000,일식
+male,60s,under 15000,동남아 음식
+female,80s,15000~30000,일식
+female,30s,under 15000,패스트푸드 및 테이크아웃
+male,10s,15000~30000,일식
+male,70s,over 30000,한식
+male,30s,over 30000,양식
+female,children,under 15000,베이커리 및 디저트
+male,60s,over 30000,중식
+male,10s,15000~30000,일식
+male,10s,under 15000,베이커리 및 디저트
+female,40s,over 30000,양식
+male,40s,over 30000,한식
+male,children,15000~30000,동남아 음식
+male,70s,over 30000,일식
+female,10s,under 15000,베이커리 및 디저트
+male,children,15000~30000,한식
+male,children,15000~30000,중식
+female,20s,15000~30000,패스트푸드 및 테이크아웃
+female,80s,over 30000,한식
+female,30s,under 15000,패스트푸드 및 테이크아웃
+female,40s,15000~30000,베이커리 및 디저트
+male,60s,under 15000,중식
+male,10s,under 15000,한식
+male,80s,over 30000,양식
+female,80s,15000~30000,중식
+male,60s,15000~30000,중식
+female,60s,over 30000,일식
+female,60s,over 30000,패스트푸드 및 테이크아웃
+female,10s,15000~30000,일식
+female,children,15000~30000,베이커리 및 디저트
+male,10s,over 30000,패스트푸드 및 테이크아웃
+male,70s,under 15000,한식
+male,50s,15000~30000,일식
+male,20s,under 15000,베이커리 및 디저트
+female,30s,over 30000,양식
+female,50s,over 30000,양식
+male,50s,under 15000,동남아 음식
+male,60s,over 30000,일식
+male,20s,15000~30000,베이커리 및 디저트
+female,10s,15000~30000,베이커리 및 디저트
+male,30s,15000~30000,패스트푸드 및 테이크아웃
+female,80s,under 15000,한식
+female,20s,15000~30000,동남아 음식
+male,20s,15000~30000,동남아 음식
+male,30s,under 15000,중식
+male,40s,over 30000,한식
+female,20s,over 30000,한식
+female,40s,15000~30000,한식
+male,20s,over 30000,양식
+female,70s,under 15000,중식
+male,30s,over 30000,일식
+female,50s,under 15000,패스트푸드 및 테이크아웃
+female,70s,over 30000,한식
+male,50s,15000~30000,한식
+male,10s,15000~30000,중식
+male,70s,15000~30000,동남아 음식
+male,80s,over 30000,한식
+female,80s,over 30000,양식
+female,70s,under 15000,베이커리 및 디저트
+male,40s,15000~30000,한식
+female,70s,under 15000,베이커리 및 디저트
+male,30s,15000~30000,양식
+male,40s,over 30000,양식
+female,50s,under 15000,일식
+male,50s,over 30000,동남아 음식
+male,30s,under 15000,양식
+male,20s,under 15000,한식
+female,70s,under 15000,중식
+male,40s,over 30000,양식
+female,30s,over 30000,베이커리 및 디저트
+female,80s,under 15000,한식
+female,70s,over 30000,일식
+male,60s,under 15000,패스트푸드 및 테이크아웃
+female,10s,under 15000,양식
+male,70s,over 30000,한식
+female,60s,15000~30000,동남아 음식
+female,10s,under 15000,패스트푸드 및 테이크아웃
+male,children,under 15000,베이커리 및 디저트
+male,70s,15000~30000,중식
+male,30s,over 30000,양식
+male,20s,15000~30000,중식
+male,30s,over 30000,동남아 음식
+male,80s,under 15000,한식
+female,60s,under 15000,일식
+male,80s,under 15000,중식
+male,40s,over 30000,일식
+male,60s,under 15000,패스트푸드 및 테이크아웃
+female,80s,15000~30000,중식
+male,40s,15000~30000,한식
+female,20s,under 15000,베이커리 및 디저트
+female,30s,under 15000,패스트푸드 및 테이크아웃
+female,80s,over 30000,한식
+male,60s,over 30000,동남아 음식
+male,40s,under 15000,베이커리 및 디저트
+male,40s,under 15000,한식
+female,40s,under 15000,중식
+male,60s,under 15000,베이커리 및 디저트
+male,20s,over 30000,양식
+female,60s,over 30000,일식
+male,20s,15000~30000,양식
+female,20s,over 30000,일식
+male,10s,under 15000,동남아 음식
+male,20s,15000~30000,일식
+male,60s,15000~30000,양식
+female,60s,under 15000,베이커리 및 디저트
+female,50s,15000~30000,일식
+male,30s,15000~30000,동남아 음식
+male,50s,over 30000,일식
+male,10s,15000~30000,중식
+female,40s,15000~30000,한식
+male,80s,15000~30000,동남아 음식
+female,60s,over 30000,일식
+female,20s,under 15000,동남아 음식
+male,children,under 15000,베이커리 및 디저트
+female,10s,15000~30000,베이커리 및 디저트
+female,children,over 30000,일식
+male,70s,under 15000,한식
+female,70s,15000~30000,패스트푸드 및 테이크아웃
+male,70s,under 15000,베이커리 및 디저트
+male,40s,over 30000,일식
+female,10s,over 30000,패스트푸드 및 테이크아웃
+male,70s,15000~30000,중식
+female,70s,over 30000,동남아 음식
+male,40s,over 30000,한식
+male,40s,under 15000,동남아 음식
+male,20s,over 30000,양식
+female,80s,over 30000,한식
+male,50s,under 15000,패스트푸드 및 테이크아웃
+male,30s,15000~30000,베이커리 및 디저트
+male,70s,under 15000,중식
+female,10s,under 15000,패스트푸드 및 테이크아웃
+male,10s,15000~30000,패스트푸드 및 테이크아웃
+male,30s,under 15000,한식
+male,80s,15000~30000,일식
+female,60s,over 30000,한식
+male,80s,under 15000,한식
+female,children,15000~30000,한식
+male,children,under 15000,중식
+male,80s,over 30000,중식
+female,40s,15000~30000,일식
+male,10s,15000~30000,한식
+female,40s,under 15000,중식
+female,children,under 15000,베이커리 및 디저트
+female,80s,under 15000,양식
+male,80s,under 15000,한식
+female,children,under 15000,한식
+female,70s,under 15000,일식
+male,30s,over 30000,일식
+female,30s,15000~30000,동남아 음식
+female,60s,over 30000,동남아 음식
+male,80s,15000~30000,중식
+male,70s,over 30000,일식
+male,40s,over 30000,양식
+male,10s,under 15000,동남아 음식
+female,10s,over 30000,패스트푸드 및 테이크아웃
+female,70s,over 30000,한식
+female,70s,under 15000,한식
+female,30s,under 15000,중식
+male,60s,under 15000,양식
+male,80s,over 30000,양식
+female,50s,under 15000,베이커리 및 디저트
+female,20s,under 15000,베이커리 및 디저트
+female,80s,under 15000,패스트푸드 및 테이크아웃
+female,children,15000~30000,패스트푸드 및 테이크아웃
+male,40s,under 15000,중식
+female,40s,over 30000,양식
+male,60s,15000~30000,중식
+female,80s,under 15000,한식
+male,50s,under 15000,한식
+male,children,15000~30000,중식
+male,10s,under 15000,일식
+male,50s,over 30000,동남아 음식
+female,40s,over 30000,한식
+female,50s,over 30000,일식
+female,20s,over 30000,양식
+female,children,over 30000,패스트푸드 및 테이크아웃
+male,70s,15000~30000,양식
+female,50s,over 30000,일식
+female,60s,15000~30000,한식
+female,30s,15000~30000,한식
+male,70s,over 30000,한식
+female,50s,over 30000,일식
+female,60s,15000~30000,한식
+female,70s,under 15000,한식
+female,10s,15000~30000,패스트푸드 및 테이크아웃
+male,10s,under 15000,패스트푸드 및 테이크아웃
+male,20s,under 15000,동남아 음식
+female,40s,15000~30000,양식
+female,30s,over 30000,한식
+female,30s,under 15000,일식
+female,80s,15000~30000,한식
+male,80s,15000~30000,중식
+male,80s,under 15000,한식
+female,60s,under 15000,베이커리 및 디저트
+male,20s,15000~30000,중식
+male,50s,15000~30000,베이커리 및 디저트
+female,70s,over 30000,한식
+female,70s,under 15000,한식
+male,children,15000~30000,동남아 음식
+male,children,under 15000,동남아 음식
+female,60s,over 30000,중식
+male,80s,under 15000,한식
+male,80s,over 30000,한식
+male,60s,over 30000,한식
+male,50s,15000~30000,중식
+female,10s,15000~30000,패스트푸드 및 테이크아웃
+female,20s,15000~30000,베이커리 및 디저트
+male,40s,under 15000,중식
+male,children,under 15000,패스트푸드 및 테이크아웃
+female,10s,15000~30000,패스트푸드 및 테이크아웃
+female,80s,15000~30000,한식
+female,20s,over 30000,양식
+male,10s,under 15000,베이커리 및 디저트
+female,70s,15000~30000,동남아 음식
+female,40s,over 30000,동남아 음식
+male,10s,over 30000,패스트푸드 및 테이크아웃
+female,80s,15000~30000,일식
+female,30s,under 15000,한식
+female,30s,15000~30000,한식
+male,50s,under 15000,동남아 음식
+female,children,15000~30000,베이커리 및 디저트
+male,50s,under 15000,한식
+female,60s,over 30000,양식
+male,60s,under 15000,일식
+male,children,15000~30000,일식
+female,70s,under 15000,패스트푸드 및 테이크아웃
+male,10s,15000~30000,베이커리 및 디저트
+male,70s,under 15000,한식
+female,80s,15000~30000,일식
+male,70s,15000~30000,한식
+female,children,15000~30000,한식
+male,children,under 15000,패스트푸드 및 테이크아웃
+male,20s,15000~30000,일식
+male,50s,15000~30000,패스트푸드 및 테이크아웃
+male,40s,under 15000,중식
+male,30s,15000~30000,중식
+female,20s,over 30000,양식
+male,30s,under 15000,베이커리 및 디저트
+male,20s,over 30000,일식
+female,80s,under 15000,한식
+female,50s,under 15000,일식
+male,40s,over 30000,중식
+female,50s,under 15000,베이커리 및 디저트
+female,80s,15000~30000,한식
+female,10s,under 15000,한식
+male,children,under 15000,베이커리 및 디저트
+female,60s,15000~30000,한식
+female,10s,under 15000,베이커리 및 디저트
+male,20s,under 15000,중식
+female,40s,under 15000,베이커리 및 디저트
+male,50s,15000~30000,중식
+male,20s,under 15000,베이커리 및 디저트
+male,40s,15000~30000,한식
+female,10s,15000~30000,동남아 음식
+male,80s,under 15000,한식
+female,80s,over 30000,일식
+female,children,under 15000,베이커리 및 디저트
+female,40s,over 30000,한식
+male,60s,under 15000,패스트푸드 및 테이크아웃
+male,70s,under 15000,한식
+female,10s,15000~30000,베이커리 및 디저트
+male,40s,15000~30000,한식
+male,80s,over 30000,일식
+male,20s,under 15000,패스트푸드 및 테이크아웃
+male,40s,under 15000,한식
+male,40s,over 30000,양식
+female,50s,15000~30000,양식
+female,80s,15000~30000,동남아 음식
+female,children,under 15000,한식
+female,50s,under 15000,일식
+female,50s,over 30000,양식
+female,20s,over 30000,일식
+female,50s,over 30000,일식
+male,20s,under 15000,중식
+male,60s,over 30000,중식
+male,30s,over 30000,양식
+female,children,15000~30000,일식
+female,40s,15000~30000,베이커리 및 디저트
+female,70s,15000~30000,한식
+male,40s,over 30000,일식
+male,40s,15000~30000,중식
+female,10s,under 15000,베이커리 및 디저트
+male,children,under 15000,한식
+female,10s,under 15000,베이커리 및 디저트
+female,80s,15000~30000,한식
+male,10s,under 15000,패스트푸드 및 테이크아웃
+female,10s,under 15000,패스트푸드 및 테이크아웃
+female,children,under 15000,중식
+male,80s,under 15000,한식
+male,70s,under 15000,양식
+female,20s,over 30000,양식
+male,children,under 15000,패스트푸드 및 테이크아웃
+male,children,15000~30000,패스트푸드 및 테이크아웃
+male,80s,under 15000,중식
+male,80s,over 30000,한식
+male,50s,15000~30000,베이커리 및 디저트
+male,10s,under 15000,패스트푸드 및 테이크아웃
+male,30s,over 30000,한식
+female,40s,under 15000,중식
+male,10s,15000~30000,한식
+male,40s,under 15000,일식
+female,40s,over 30000,양식
+female,children,15000~30000,베이커리 및 디저트
+female,70s,15000~30000,중식
+female,10s,under 15000,베이커리 및 디저트
+female,50s,over 30000,일식
+female,40s,under 15000,중식
+female,children,under 15000,한식
+female,40s,over 30000,패스트푸드 및 테이크아웃
+male,children,over 30000,패스트푸드 및 테이크아웃
+male,80s,over 30000,한식
+female,60s,15000~30000,중식
+female,40s,15000~30000,일식
+male,80s,under 15000,한식
+male,30s,under 15000,중식
+male,40s,15000~30000,패스트푸드 및 테이크아웃
+male,children,under 15000,한식
+female,80s,15000~30000,양식
+male,children,under 15000,패스트푸드 및 테이크아웃
+female,80s,15000~30000,중식
+female,20s,15000~30000,일식
+female,30s,over 30000,양식
+female,30s,over 30000,패스트푸드 및 테이크아웃
+female,60s,over 30000,동남아 음식
+female,children,15000~30000,베이커리 및 디저트
+female,40s,over 30000,중식
+female,60s,15000~30000,한식
+male,70s,15000~30000,일식
+male,children,under 15000,패스트푸드 및 테이크아웃
+male,40s,under 15000,한식
+male,20s,over 30000,패스트푸드 및 테이크아웃
+male,70s,over 30000,한식
+male,10s,15000~30000,패스트푸드 및 테이크아웃
+female,40s,over 30000,한식
+male,30s,15000~30000,중식
+female,70s,over 30000,일식
+male,children,15000~30000,중식
+male,70s,under 15000,중식
+female,children,under 15000,한식
+female,50s,15000~30000,베이커리 및 디저트
+male,30s,15000~30000,패스트푸드 및 테이크아웃
+female,70s,15000~30000,한식
+female,children,15000~30000,베이커리 및 디저트
+female,10s,15000~30000,패스트푸드 및 테이크아웃
+female,10s,under 15000,베이커리 및 디저트
+male,60s,over 30000,일식
+male,20s,over 30000,양식
+male,20s,under 15000,중식
+male,80s,over 30000,패스트푸드 및 테이크아웃
+female,70s,15000~30000,동남아 음식
+female,10s,over 30000,양식
+male,80s,15000~30000,한식
+female,10s,15000~30000,베이커리 및 디저트
+female,10s,over 30000,양식
+male,50s,15000~30000,패스트푸드 및 테이크아웃
+male,30s,15000~30000,일식
+female,50s,15000~30000,한식
+male,60s,over 30000,동남아 음식
+female,60s,15000~30000,동남아 음식
+male,80s,15000~30000,한식
+female,80s,under 15000,한식
+female,60s,under 15000,한식
+female,10s,15000~30000,패스트푸드 및 테이크아웃
+male,60s,under 15000,패스트푸드 및 테이크아웃
+male,60s,15000~30000,동남아 음식
+female,30s,under 15000,중식
+male,50s,under 15000,한식
+male,30s,over 30000,양식
+male,60s,over 30000,패스트푸드 및 테이크아웃
+female,70s,15000~30000,한식
+female,40s,under 15000,중식
+female,10s,under 15000,베이커리 및 디저트
+male,40s,under 15000,한식
+female,children,under 15000,일식
+male,70s,over 30000,중식
+male,20s,under 15000,동남아 음식
+male,children,15000~30000,한식
+female,60s,over 30000,양식
+female,30s,15000~30000,패스트푸드 및 테이크아웃
+female,80s,under 15000,동남아 음식
